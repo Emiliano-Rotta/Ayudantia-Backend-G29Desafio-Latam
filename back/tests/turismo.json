@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "España",
+    "img": "www.España.com",
+    "descripcion": "Muy lindo para recorrer",
+    "likes": 45
+  },
+  {
+    "id": 2,
+    "titulo": "Portugal",
+    "img": "www.Portugal.com",
+    "descripcion": "Conocer Fatima",
+    "likes": 12
+  },
+  {
+    "id": 3,
+    "titulo": "Miami",
+    "img": "www.Miami.com",
+    "descripcion": "Ir a ver un partido del Inter de Miami",
+    "likes": 138
+  }
+]
